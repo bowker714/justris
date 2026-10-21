@@ -48,7 +48,7 @@ pip install pygame
 Run the script from your terminal:
 
 ```bash
-python tetris.py
+python justris.py
 
 ```
 
